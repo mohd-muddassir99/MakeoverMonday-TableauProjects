@@ -7,3 +7,32 @@ This Tableau dashboard presents a visualization of **The World's Highest Paid At
 <div align="center">
     <img src="https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/blob/805a94d8d9bfc884a5c6b20fb21cff04f2c56e8f/The%20World's%20Most%20Paid%20Athletes%202023%20-%20%23MOM%20W2%202024/Top%2050%20Earner%20Athlete%20-%202023%20(Forbes)%20%23MakeOverMonday%202024.png" width="600px" height="800px">
 </div> 
+
+
+
+
+
+### View & Download the live Tableau Dashboard here:
+
+<p align="center">
+    <a href="https://public.tableau.com/shared/3ZK3RN89Y?:display_count=n&:origin=viz_share_link">
+        <img src="https://www.tableau.com/sites/default/files/blog/tableautips_30.png" width="120px" alt="Access Dataset"><br>
+        View
+    </a>
+</p> <br>
+
+---
+
+<div align="center">
+Thanks for checking out, Feel free to reach out if you have any questions or feedback. Happy analyzing! 😊<br>
+ 🔗 Connect with me on LinkedIn 
+ 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mohd-muddassir99/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
+        LinkedIn
+    </a>
+
+   | Mohd Muddassir | </a> <br>
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+</div>
