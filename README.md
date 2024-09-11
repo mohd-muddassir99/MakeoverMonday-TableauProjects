@@ -26,3 +26,18 @@ These visualizations not only demonstrate my passion for data but also reflect t
 Feel free to explore, share feedback, and reach out for collaborations 📍
 
 
+---
+
+<div align="center">
+<p align="center">
+    Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects.
+🔗 Connect with me on LinkedIn
+   
+<a href="https://www.linkedin.com/in/mohd-muddassir99/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
+        LinkedIn
+    </a>
+
+   | **Mohd Muddassir** | </a> <br>
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+</div>
