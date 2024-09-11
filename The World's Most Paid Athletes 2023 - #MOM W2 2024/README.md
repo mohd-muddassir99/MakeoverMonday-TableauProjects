@@ -3,12 +3,15 @@
 ## Introduction: 
 This Tableau dashboard presents a visualization of **The World's Highest Paid Athletes in 2023** based on **Forbes** data. The dataset includes key metrics such as total earnings, on-the-field earnings, and off-the-field earnings, along with the athletes’ names, sports, and rankings. The interactive dashboard provides a comprehensive view of how different athletes and sports contribute to earnings, offering insights into the financial landscape of professional sports.
 
+- **Explore More About MakeOver Monday** 🔗: https://makeovermonday.co.uk/
+- To Download the dataset : https://data.world/makeovermonday
+
 ## Dashboard 📊: 
 <div align="center">
     <img src="https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/blob/805a94d8d9bfc884a5c6b20fb21cff04f2c56e8f/The%20World's%20Most%20Paid%20Athletes%202023%20-%20%23MOM%20W2%202024/Top%2050%20Earner%20Athlete%20-%202023%20(Forbes)%20%23MakeOverMonday%202024.png" width="600px" height="800px">
 </div> 
 
-## Key Insights:
+## Key Insights 💡:
 - **Diverse Earnings Streams**: Athletes in certain sports, such as basketball and soccer, tend to have substantial off-the-field earnings, highlighting the importance of endorsements and brand deals.
 - **Top Earners by Sport**: Sports such as basketball, soccer, and tennis dominate in terms of total earnings, with athletes from these sports consistently ranking among the top earners.
 - **On-Field vs Off-Field Disparities**: Some athletes, particularly those in combat sports, derive the majority of their earnings from on-the-field performance, while others, like tennis players, show significant off-the-field income.
