@@ -11,8 +11,7 @@ This repository showcases all the projects I've worked on as part of the **#Make
 - **Community**: Makeover Monday has helped thousands of Tableau Community members learn and grow.
 
 <div align="center">
-    <img src="![MOM PIc](https://github.com/user-attachments/assets/f529ad77-d94c-420d-83f9-0274163a0105)
-" width="600px" height="300px">
+    <img src="https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/blob/main/MOM%20PIc.png" width="600px" height="800px">
 </div> 
 
 
