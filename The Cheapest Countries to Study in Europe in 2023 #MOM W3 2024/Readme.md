@@ -16,3 +16,6 @@ This Tableau dashboard provides a visualization of the **The Cheapest Countries 
 - **Affordable Study Destinations**: Certain countries, particularly in Southern and Eastern Europe, offer comparatively lower tuition fees and living costs, making them attractive options for international students seeking cost-effective education.
 - **Regional Differences**: The regional filters allow users to explore trends within specific parts of Europe. Southern and Eastern European countries generally have lower living costs, while Northern and Western European countries tend to have higher tuition fees.
 - **Geographical Insights**: The map chart helps identify the exact location of affordable study destinations, allowing students to consider proximity and other geographical factors alongside cost.
+
+
+
