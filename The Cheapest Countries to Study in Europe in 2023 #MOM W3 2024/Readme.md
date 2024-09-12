@@ -17,5 +17,28 @@ This Tableau dashboard provides a visualization of the **The Cheapest Countries 
 - **Regional Differences**: The regional filters allow users to explore trends within specific parts of Europe. Southern and Eastern European countries generally have lower living costs, while Northern and Western European countries tend to have higher tuition fees.
 - **Geographical Insights**: The map chart helps identify the exact location of affordable study destinations, allowing students to consider proximity and other geographical factors alongside cost.
 
+## View & Download the live Tableau Dashboard here:
 
+<p align="center">
+    <a href="https://public.tableau.com/shared/JW9H4744C?:display_count=n&:origin=viz_share_link">
+        <img src="https://www.tableau.com/sites/default/files/blog/tableautips_30.png" width="120px" alt="Access Dataset"><br>
+        View
+    </a>
+</p> <br>
+
+---
+
+<div align="center">
+Thanks for checking out, Feel free to reach out if you have any questions or feedback. Happy analyzing! 😊<br>
+ 🔗 Connect with me on LinkedIn 
+ 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mohd-muddassir99/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
+        LinkedIn
+    </a>
+
+   | **Mohd Muddassir** | </a> <br>
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+</div>
 
