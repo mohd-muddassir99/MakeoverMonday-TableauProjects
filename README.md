@@ -16,6 +16,14 @@ This repository showcases all the projects I've worked on as part of the **#Make
 
 To Know More MakeOver Monday Click 🔗: https://makeovermonday.co.uk/
 
+## 📚 Table of Contents
+
+Please find the links for the Vizz's. Simply click on the links to access each Visualization.
+- [The World's Most Paid Athletes 2023 - #MOM W2 2024](https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/tree/00af773ad3348e3b30d652a370fc8a172c9e0190/The%20World's%20Most%20Paid%20Athletes%202023%20-%20%23MOM%20W2%202024)
+- [The Cheapest Countries to Study in Europe in 2023 #MOM W3 2024](https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/tree/00af773ad3348e3b30d652a370fc8a172c9e0190/The%20Cheapest%20Countries%20to%20Study%20in%20Europe%20in%202023%20%23MOM%20W3%202024)
+- [Case Study #3: Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/README.md)
+- [Case Study #4: Data Bank](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/README.md)
+
 ## What's Inside:
 - **Weekly Data Visualizations**: Creative and analytical dashboards based on diverse datasets.
 - **Project Overviews**: Brief descriptions and goals of each visualization.
