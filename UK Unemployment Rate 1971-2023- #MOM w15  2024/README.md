@@ -16,3 +16,28 @@ This Tableau dashboard visualizes the UK unemployment rate from 1971 to 2023, of
 - **Decadal Averages**: The 1980s and early 1990s had the highest average unemployment rates, while recent decades, particularly the 2000s and 2010s, have seen relatively lower averages, indicating an improvement in employment levels.
 - **Long-Term Trend**: The line chart reveals a cyclical nature of unemployment rates, with several periods of increase and recovery, reflecting the UK's economic fluctuations over time.
 - **Recent Stability**: In the last two decades, unemployment rates have shown more stability, with the UK maintaining lower levels of unemployment compared to earlier decades.
+
+## View & Download the live Tableau Dashboard here:
+
+<p align="center">
+    <a href="https://public.tableau.com/shared/DBHZNHHRW?:display_count=n&:origin=viz_share_link">
+        <img src="https://www.tableau.com/sites/default/files/blog/tableautips_30.png" width="120px" alt="Access Dataset"><br>
+        View
+    </a>
+</p> <br>
+
+---
+
+<div align="center">
+Thanks for checking out, Feel free to reach out if you have any questions or feedback. Happy analyzing! 😊<br>
+ 🔗 Connect with me on LinkedIn 
+ 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mohd-muddassir99/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
+        LinkedIn
+    </a>
+
+   | **Mohd Muddassir** | </a> <br>
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+</div>
