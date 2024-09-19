@@ -11,3 +11,8 @@ This Tableau dashboard visualizes data on the identification of LGBTQ+ among U.S
 <div align="center">
     <img src="https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/blob/main/Identification%20of%20LGBTQ%2B%20in%20the%20US%20%7C%7C%20%23MOM%20W23%20-%202024/Identification%20of%20LGBTQ%2B%20in%20the%20US%20__%20%23MakeoverMonday%20Week%2023%20-%202024.png" width="1300px" height="800px">
 </div> 
+
+## Key Insights 💡:
+- **LGBTQ+ Growth in Recent Generations**: The data reveals a significant increase in LGBTQ+ identification among younger generations, particularly Millennials (11.2%) and Generation Z (19.7%), compared to older generations like Baby Boomers (2.7%) and Traditionalists (1.3%).
+- **Sharp Rise Over Time**: The heatmap shows a clear upward trend in LGBTQ+ identification from 6.3% in 2014 to 19.7% in 2022, indicating growing acceptance and visibility over the years.
+- **Generational Gaps**: The chart highlights the vast difference in LGBTQ+ identification across generations, reflecting shifting social norms and greater openness in younger age groups.
