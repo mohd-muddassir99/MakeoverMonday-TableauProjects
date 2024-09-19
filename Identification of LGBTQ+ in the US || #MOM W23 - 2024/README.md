@@ -1,1 +1,2 @@
-
+# Identification of LGBTQ+ in the US 
+Do you Know that 7.2 Percent of U.S. Adults Identify as LGBTQ.......
