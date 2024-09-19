@@ -16,3 +16,28 @@ This Tableau dashboard visualizes data on the identification of LGBTQ+ among U.S
 - **LGBTQ+ Growth in Recent Generations**: The data reveals a significant increase in LGBTQ+ identification among younger generations, particularly Millennials (11.2%) and Generation Z (19.7%), compared to older generations like Baby Boomers (2.7%) and Traditionalists (1.3%).
 - **Sharp Rise Over Time**: The heatmap shows a clear upward trend in LGBTQ+ identification from 6.3% in 2014 to 19.7% in 2022, indicating growing acceptance and visibility over the years.
 - **Generational Gaps**: The chart highlights the vast difference in LGBTQ+ identification across generations, reflecting shifting social norms and greater openness in younger age groups.
+
+## View & Download the live Tableau Dashboard here:
+
+<p align="center">
+    <a href="https://public.tableau.com/views/IdentificationofLGBTQintheUSMakeoverMondayWeek23-2024/IdentificationofLGBTQintheUSMakeoverMondayWeek23-2024?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+        <img src="https://www.tableau.com/sites/default/files/blog/tableautips_30.png" width="120px" alt="Access Dataset"><br>
+        View
+    </a>
+</p> <br>
+
+---
+
+<div align="center">
+Thanks for checking out, Feel free to reach out if you have any questions or feedback. Happy analyzing! 😊<br>
+ 🔗 Connect with me on LinkedIn 
+ 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mohd-muddassir99/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
+        LinkedIn
+    </a>
+
+   | **Mohd Muddassir** | </a> <br>
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+</div>
