@@ -31,7 +31,7 @@ Please find the links for the Vizz's. Simply click on the links to access each V
 
 These visualizations not only demonstrate my passion for data but also reflect the continuous learning and improvement in my analytical and design skills. 
 
-Feel free to explore, share feedback, and reach out for collaborations 📍
+Feel free to explore, share feedback and reach out for collaborations 📍
 
 
 ---
