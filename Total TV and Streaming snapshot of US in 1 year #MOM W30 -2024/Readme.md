@@ -16,6 +16,10 @@ This Tableau dashboard provides a comprehensive snapshot of TV and streaming vie
 - **Top Earners by Sport**: Sports such as basketball, soccer, and tennis dominate in terms of total earnings, with athletes from these sports consistently ranking among the top earners.
 - **On-Field vs Off-Field Disparities**: Some athletes, particularly those in combat sports, derive the majority of their earnings from on-the-field performance, while others, like tennis players, show significant off-the-field income.
 - **Interactive Exploration**: With the sport and athlete filters, users can explore earnings trends across different sports or focus on individual athlete profiles to see specific details.
+- **Streaming Continues to Lead**: Streaming platforms dominate the market, with YouTube (9%) and Netflix (7.8%) being the top choices. Platforms like Disney+, Tubi, and Max show double-digit monthly growth, indicating rising competition.
+- **Cable and Broadcast Are Declining**: While cable still holds 29.8% of the market, its viewership has been steadily decreasing. Broadcast TV has 23% share, showing fluctuations but remaining below streaming.
+- **Seasonal Growth in Streaming**: Streaming saw a 5% increase compared to May, suggesting potential growth during specific periods. The line chart highlights how streaming consistently gained traction over time, while traditional TV formats struggled.
+- **Diverse Streaming Preferences**: Users are shifting toward on-demand content, as evident from the growth of YouTube, Netflix, and free streaming platforms like Tubi. Smaller platforms (Max, Peacock, Roku, etc.) have a smaller but stable presence.
 
 
 
