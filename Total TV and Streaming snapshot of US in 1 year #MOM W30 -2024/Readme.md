@@ -8,7 +8,7 @@ This Tableau dashboard presents a visualization of **The World's Highest Paid At
 
 ## Dashboard 📊: 
 <div align="center">
-    <img src="https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/blob/805a94d8d9bfc884a5c6b20fb21cff04f2c56e8f/The%20World's%20Most%20Paid%20Athletes%202023%20-%20%23MOM%20W2%202024/Top%2050%20Earner%20Athlete%20-%202023%20(Forbes)%20%23MakeOverMonday%202024.png" width="600px" height="800px">
+    <img src="https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/blob/6d77d119aaff9471942d4a234a9b17480cf46c14/Total%20TV%20and%20Streaming%20snapshot%20of%20US%20in%201%20year%20%23MOM%20W30%20-2024/%23MOM%20W30-%202024%20TV%20%26%20Streaming%20SnapShot%20of%20US.png" width="800px" height="600px">
 </div> 
 
 ## Key Insights 💡:
