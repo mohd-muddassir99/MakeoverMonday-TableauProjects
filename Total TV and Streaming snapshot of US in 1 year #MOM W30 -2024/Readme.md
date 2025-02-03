@@ -1,7 +1,7 @@
 # Total TV and Streaming snapshot of US in 1 year - [Nielsen](https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/)
 Do you know Streaming Hits 40% of U.S. TV Usage for the First Time
 ## Introduction: 
-This Tableau dashboard presents a visualization of **The World's Highest Paid Athletes in 2023** based on **Forbes** data. The dataset includes key metrics such as total earnings, on-the-field earnings, and off-the-field earnings, along with the athletes’ names, sports, and rankings. The interactive dashboard provides a comprehensive view of how different athletes and sports contribute to earnings, offering insights into the financial landscape of professional sports.
+This Tableau dashboard provides a comprehensive snapshot of TV and streaming viewership in the U.S. over the past year, offering insights into the most used streaming platforms and trends in viewership share across different categories. By integrating visual elements such as platform logos and interactive filters, the dashboard delivers an intuitive and engaging exploration of media consumption patterns.
 
 - **Explore More About MakeOver Monday** 🔗: https://makeovermonday.co.uk/
 - **To Download the dataset** : https://data.world/makeovermonday
