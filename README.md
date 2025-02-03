@@ -24,6 +24,7 @@ Please find the links for the Vizz's. Simply click on the links to access each V
 - [Public Awareness Around Antibiotic Resistance - #MOM W14 2024](https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/tree/9a2e91e08aae080e5d75d7a3a06dbfc55213e706/Public%20Awareness%20Around%20Antibiotic%20Resistance%20-%20%23MOM%20W14%202024)
 - [UK Unemployment Rate 1971-2023- #MOM w15  2024](https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/tree/main/UK%20Unemployment%20Rate%201971-2023-%20%23MOM%20w15%20%202024)
 - [Identification of LGBTQ+ in the US || #MOM W23 - 2024](https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/tree/8584d69e98eb93f2a5edf371f652660ece68647c/Identification%20of%20LGBTQ%2B%20in%20the%20US%20%7C%7C%20%23MOM%20W23%20-%202024)
+- [Total TV and Streaming snapshot of US in 1 year #MOM W30 -2024](https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/tree/c7a3ea98650f4e288af8251662fa058789a0370b/Total%20TV%20and%20Streaming%20snapshot%20of%20US%20in%201%20year%20%23MOM%20W30%20-2024)
 
 ## What's Inside:
 - **Weekly Data Visualizations**: Creative and analytical dashboards based on diverse datasets.
