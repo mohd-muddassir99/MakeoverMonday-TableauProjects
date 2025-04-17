@@ -3,7 +3,7 @@ Welcome to my Makeover Monday Tableau Projects repository 🎨📊
 
 This repository showcases all the projects I've worked on as part of the **#MakeoverMonday** challenge. Each project is a data visualization that reflects my approach to transforming raw datasets into insightful and visually engaging dashboards using Tableau.
 
-# What is MakeOver Monday ?
+# What is MakeOver Monday?
 ### Makeover Monday is a weekly project that helps people improve their data visualization and analysis skills. 
 - **Participants**: Each week, a chart and data set are posted, and participants are encouraged to reimagine the visualization in their own way.
 - **Goals**: The goal isto create a better version of the visualization, and to have broader conversations about data.
